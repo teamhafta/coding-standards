@@ -1,2 +1,2 @@
-# coding-standards
+# Coding standards
 Define coding standards.
